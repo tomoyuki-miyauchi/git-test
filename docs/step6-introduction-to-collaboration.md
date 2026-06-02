@@ -208,27 +208,6 @@ Merge
 
 ---
 
-# VCLでよく使う流れ
-
-研究や開発で最もよく利用するパターンは次のようなものです。
-
-```bash
-git checkout main
-git pull
-
-git checkout -b feature/new-function
-
-# 開発
-
-git add .
-git commit -m "Add new function"
-
-git push origin feature/new-function
-```
-
-その後GitHubでPull Requestを作成します。
-
----
 
 # まとめ
 

@@ -47,12 +47,3 @@ git switch --create dev 831cd6f90ff1e444109ab7e645a572517d3f21ab
 * ブランチ開発
 * マージ
 * GitHubを利用した共同開発
-
----
-
-## 参考資料
-
-* Git公式サイト: https://git-scm.com/
-* Pro Git: https://git-scm.com/book/ja/v2
-* GitHub Docs: https://docs.github.com/
-* GitHub Skills: https://skills.github.com/
