@@ -75,7 +75,8 @@ git checkout -b dev
 
 ## 6. Issue のチュートリアルを実行
 
-リポジトリ内の Issue に従って作業を進めます。
+https://github.com/HirotoKaburagi/skills-introduction-to-git/issues/1
+上記のURLに従って作業を進めます。
 
 ---
 
